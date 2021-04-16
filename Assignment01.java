@@ -1,7 +1,7 @@
 /**
 * CSE 110     : Class 77686 / iCourse
 * Assignment  : assignment 1
-* Author      : Joseph Kharzo & 1218555299
+* Author      : Joseph Kharzo
 * Description : A program that takes in information regarding the purchase and
 * slicing of pizza. The program then uses user input to calculate the best way
 * to divide the slices of pizza among a set number of adults and children. The
